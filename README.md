@@ -7,6 +7,7 @@ California Crop Yield Benchmark: Combining Satellite Image, Climate, Evapotransp
 Per the assignment instructions, we reconstructed part of the paper’s workflow using our own code, reproduced in:
 
 main.ipynb — our complete Python pipeline extracted from the notebook
+
 requirements.txt — dependencies needed to run our script
 
 This repo is designed for the instructor/TA to reproduce what we implemented and evaluate our understanding of the Parent Paper’s methods.
@@ -29,8 +30,8 @@ Any additional analysis we performed
 
 This is the only Python file used in the project, as required.
 
-## Assignment Objectives Covered
-### Reproduce the Parent Paper’s methodology
+### Assignment Objectives Covered
+#### Reproduce the Parent Paper’s methodology
 
 We follow the same ideas used in the Parent Paper, such as:
 
@@ -56,7 +57,7 @@ We included a complete line_by_line_narration.md that we used to record our expl
 
 
 
-🚀 How to Run
+How to Run
 1. Install Dependencies
 pip install -r requirements.txt
 
@@ -66,7 +67,7 @@ python main.ipynb
 
 If our script depends on specific file paths or a dataset, instructions/editable paths are written inside the Python file.
 
-🎥 Video Recording (Deliverable)
+Video Recording (Deliverable)
 
 Our video demonstrates:
 
@@ -84,7 +85,7 @@ This satisfies the assignment requirement to show the code and our understanding
 
 Although our dataset and exact setup may differ, the performance trend and reasoning align with the paper’s methodology.
 
-👥 Team 55
+Team 55
 
 Sara Almansoori
 Carelle Matthews
