@@ -14,7 +14,7 @@ This repo is designed for the instructor/TA to reproduce what we implemented and
 
 ### What This Code Does
 
-Our file team_code_clean.py includes:
+Our file main.py includes:
 
 Data loading and preprocessing
 
